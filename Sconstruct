@@ -1,0 +1,1 @@
+Program(target="testcalc",source=["TestSimpleCalculatorv2.cpp", "SimpleCalculator.cpp"], LIBS=['cppunit'], LIBPATH=['/usr/lib', '/usr/local/lib'])
